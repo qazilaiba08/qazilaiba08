@@ -15,6 +15,8 @@ Hi there, I'm Laiba Qazi! 👋
 😄 Fun Facts:
 🌈 I’m passionate about my profession and love creating dynamic projects.
 ⚡ My GitHub profile is my ✨ special ✨ repository of ideas and growth.
+
+Feel free to connect! Let's build something amazing together. 🚀
 <!---
 qazilaiba08/qazilaiba08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
