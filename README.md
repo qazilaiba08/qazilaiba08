@@ -1,8 +1,7 @@
-# Hi there, I'm Qazi Laiba! 👋
+# Hi there, I'm Laiba Qazi! 👋
 ![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FF7F50&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Let's+build+something+amazing+together!)
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web and app development and open-source contributions.
-https://www.canva.com/design/DAGeEK2lnSY/leRvKS7Y0ARwy2tB2p7oqw/edit?utm_content=DAGeEK2lnSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 💫 About Me:
 Hi there, I'm Laiba Qazi! 👋 🌟 Passionate Frontend Developer | Lifelong Learner 🌟<br><br>👀 About Me: 💻 I’m interested in Web Development and building creative, user-friendly interfaces. 🌱 Currently learning Frontend Development through SMIT. 💞️ Excited to collaborate and grow within the tech community. ✨ I strive to bring passion and professionalism into everything I do.<br><br>📫 How to Reach Me: 💼 LinkedIn 📧 Email: laibaqazi721@gmail.com<br><br>😄 Fun Facts: 🌈 I’m passionate about my profession and love creating dynamic projects. ⚡ My GitHub profile is my ✨ special ✨ repository of ideas and growth.<br><br>Feel free to connect! Let's build something amazing together. 🚀
