@@ -27,8 +27,7 @@ MERN Stack Developer | React Developer | Frontend Developer
                     </p>
 ### Socials
                                     
-        <p align="left">
-  
+     <p align="left">
   <a href="https://www.dev.to/laiba-qazi" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" />
   </a>
@@ -78,13 +77,29 @@ MERN Stack Developer | React Developer | Frontend Developer
   </a>
   
 </p>
-               ### Badges
-               
-               <b>My GitHub Stats</b>
-               <a
-                      href="http://www.github.com/qazilaiba08"><img src="https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="qazilaiba08's GitHub stats" /></a><a
-                      href="http://www.github.com/qazilaiba08"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=qazilaiba08&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/qazilaiba08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/qazilaiba08/MERN-E-Commerce-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=qazilaiba08&repo=MERN-E-Commerce-Website&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/laiba-qazi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/laiba-qazi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+  ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/qazilaiba08"><img src="https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="qazilaiba08's GitHub stats" /></a>
+
+<a href="http://www.github.com/qazilaiba08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=qazilaiba08&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/qazilaiba08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/qazilaiba08/MERN-E-Commerce-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=qazilaiba08&repo=MERN-E-Commerce-Website&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/laiba-qazi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/laiba-qazi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
