@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer | React Developer | Frontend Developer
 ----------------------------------------------------------
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnVsbCUyMHN0YWNrJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww" width="200" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D" width="300" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 👀 About Me: 💻 I’m a passionate MERN Stack Developer with a focus on building modern, responsive, and user-friendly web applications. My expertise lies in React.js, where I love crafting clean, efficient, and interactive interfaces that bring ideas to life.
 
