@@ -3,6 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN Stack Developer | React Developer | Frontend Developer
 -----------------------------------------------------------
+<table>
+  <tr>
+    <td><img src="https://media.istockphoto.com/id/2174315251/photo/man-hand-with-blank-white-screen-laptop-business-man-working-on-laptop-computer-at-home-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=CPeFWHKqw8AvYNE56SbFVQem2kDcQ5JaINknCjB8Pcw=" width="140" /></td>
+    <td>
+      <em>Hi! I'm Laiba Qazi, MERN Stack Developer. Passionate about building cool UI with React(Next) and TailwindCSS.</em>
+    </td>
+  </tr>
+</table>
 
 👋 Hi, I’m Laiba Qazi — MERN Stack Developer | React JS Enthusiast | Frontend Developer | Lifelong Learner 🚀
 
