@@ -2,14 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 MERN Stack Developer | React Developer | Frontend Developer
------------------------------------------------------------
-<img align="right" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300"/>
-
-I'm **Laiba Qazi**, a passionate **MERN Stack Developer** 💻 who loves building responsive UIs with **React.js** and scalable backends using **Node.js & MongoDB**.
-
-🌟 Lifelong learner, creative thinker, and team collaborator!
-
-👋 Hi, I’m Laiba Qazi — MERN Stack Developer | React JS Enthusiast | Frontend Developer | Lifelong Learner 🚀
+----------------------------------------------------------
 
 👀 About Me: 💻 I’m a passionate MERN Stack Developer with a focus on building modern, responsive, and user-friendly web applications. My expertise lies in React.js, where I love crafting clean, efficient, and interactive interfaces that bring ideas to life.
 
