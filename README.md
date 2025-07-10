@@ -3,30 +3,58 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN Stack Developer | React Developer | Frontend Developer
 ----------------------------------------------------------
+
+**Passionate Web Developer | Full Stack Developer**
+
+Welcome to my profile! I specialize in creating dynamic and interactive web applications that offer a seamless user experience. I thrive on building scalable and performance-optimized solutions across the full development stack.
+
+---
 <p align="center">
   <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D" width="300" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
-👀 About Me: 💻 I’m a passionate MERN Stack Developer with a focus on building modern, responsive, and user-friendly web applications. My expertise lies in React.js, where I love crafting clean, efficient, and interactive interfaces that bring ideas to life.
 
-🌱 Currently enhancing my skills in Frontend Development through SMIT and exploring new technologies to stay ahead in the tech space.
+## 🔹 About Me
 
-💻 I enjoy solving real-world problems with scalable solutions using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and believe in writing clean, maintainable code that creates impact.
+- **Passion:** I love building interactive web applications that bring ideas to life.
+- **Expertise:** Deep experience with both frontend and backend development with a focus on scalability and performance.
+- **Learning:** I'm always adapting to the latest technologies & frameworks to keep my skills sharp.
 
-✨ Whether it’s developing single-page applications with React, working on full-stack projects with Node.js, or diving into creative UI/UX, I strive to bring passion, professionalism, and curiosity to every project.
+---
 
-*   🌍  I'm based in Karachi Pakistan
-*   🖥️  See my portfolio at [Portfolio](http://github.com/qazilaiba08/Personal-Portofilo)
-*   ✉️  You can contact me at [laibaqazi721@gmail.com](mailto:laibaqazi721@gmail.com)
-*   🚀  I'm currently working on [E Commerce Website](http://github.com/qazilaiba08/nest.git)
-*   🧠  I'm learning Nextjs Typescript ShadCn UI
-*   🤝  I'm open to collaborating on Frontend and React Projects
-*   ⚡  I'm secretly SpiderMan in ✔️ MERN Stack Enthusiast | React.js Developer | Frontend Focused ✔️ Passionate about building intuitive, real-world projects ✔️ Always exploring new tech trends and growing as a developer ✔️ Believer in collaboration, clean code, and continuous
-*   <a href="https://www.github.com/qazilaiba08" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/qazilaiba08?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
-                  <b> Skills</b> 
+## 🌟 Interests
+
+- **Web Development & UI/UX Design:** Crafting beautiful, user-friendly interfaces.
+- **JavaScript Frameworks & Libraries:** Experimenting with the latest in the JS ecosystem.
+- **Scalable Web Applications:** Building robust and high-performing applications.
+- **Open Source Contributions:** Collaborating and contributing to the broader tech community.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend Development
+- HTML5, CSS3, JavaScript
+- Popular frameworks & libraries: React, Next , TailwindCSS (if applicable)
+
+### 🔥 Backend Development
+- Node.js, Express.js, or other technologies (customize as needed)
+  
+### 📡 Databases & Cloud Services
+- MongoDB and NoSQL databases
+- Cloud platforms like AWS, Azure, or GCP
+
+### 🛠️ Tools & Dev Workflow
+- Git & GitHub
+- CI/CD pipelines, Railway, and other modern development tools
+
+---
+
+## Skills
+    
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" title="Babel"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" title="Filebase"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" width="36" height="36" alt="Webflow" title="Webflow"/></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" title="Framer"/></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" title="Wix"/></a></p>
-<b>Socials</b> 
+
+## Socials 🔥
   <p align="left">
   <a href="https://www.dev.to/laiba-qazi" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" />
@@ -79,7 +107,9 @@ MERN Stack Developer | React Developer | Frontend Developer
 </p>
 
 
-<b>My GitHub Stats</b>
+## 🔥 GitHub Stats
+
+[![lqazilaiba08 GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
 
 <a href="http://www.github.com/qazilaiba08"><img src="https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="qazilaiba08's GitHub stats" /></a>
 
@@ -87,9 +117,18 @@ MERN Stack Developer | React Developer | Frontend Developer
 
 <a href="https://github.com/qazilaiba08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+> *Replace **qazilaiba08** with your actual GitHub username.*
 
-<div width="100%" align="center"><a href="https://github.com/qazilaiba08/MERN-E-Commerce-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=qazilaiba08&repo=MERN-E-Commerce-Website&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## 📢 Let's Connect!
+
+I’m always open to collaborating on exciting projects. If you have an idea or just want to say hi, feel free to reach out. Let’s build something awesome together!
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
 
 ### Support Me
 
@@ -103,4 +142,7 @@ MERN Stack Developer | React Developer | Frontend Developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+*Happy coding! 🚀*
+
 
