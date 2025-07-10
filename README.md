@@ -135,34 +135,4 @@ I’m always open to collaborating on exciting projects. If you have an idea or 
 
 Happy coding! 🚀
 
-<script>
-  const text = "MERN Stack Developer | React Developer | Frontend Developer\nWelcome to my profile! I specialize in creating dynamic and interactive web applications that offer a seamless user experience. I thrive on building scalable and performance-optimized solutions across the full development stack.";
-  const typewriterTextElement = document.getElementById('typewriter-text');
-  let i = 0;
-  let isDeleting = false;
-  let charIndex = 0;
-  let currentParagraph = 0;
-  const paragraphs = text.split('\n');
 
-  function typeWriter() {
-    const currentText = paragraphs[currentParagraph];
-    if (!isDeleting && charIndex < currentText.length) {
-      typewriterTextElement.textContent += currentText.charAt(charIndex);
-      charIndex++;
-      setTimeout(typeWriter, 50); // Typing speed
-    } else if (isDeleting && charIndex > 0) {
-      typewriterTextElement.textContent = currentText.substring(0, charIndex - 1);
-      charIndex--;
-      setTimeout(typeWriter, 25); // Deleting speed
-    } else if (!isDeleting && charIndex === currentText.length) {
-      setTimeout(() => isDeleting = true, 1000); // Pause before deleting
-      setTimeout(typeWriter, 1000);
-    } else if (isDeleting && charIndex === 0) {
-      isDeleting = false;
-      currentParagraph = (currentParagraph + 1) % paragraphs.length; // Move to next paragraph
-      setTimeout(typeWriter, 500); // Pause before typing next paragraph
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', typeWriter);
-</script>
