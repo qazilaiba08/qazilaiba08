@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer | React Developer | Frontend Developer
 ----------------------------------------------------------
 
-**Passionate Web Developer | Full Stack Developer**
-
 Welcome to my profile! I specialize in creating dynamic and interactive web applications that offer a seamless user experience. I thrive on building scalable and performance-optimized solutions across the full development stack.
 
 ---
@@ -117,7 +115,7 @@ Welcome to my profile! I specialize in creating dynamic and interactive web appl
 
 <a href="https://github.com/qazilaiba08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-> *Replace **qazilaiba08** with your actual GitHub username.*
+> *Replace **https://github.com/qazilaiba08/qazilaiba08** with your actual GitHub username.*
 
 ---
 
@@ -125,7 +123,7 @@ Welcome to my profile! I specialize in creating dynamic and interactive web appl
 
 I’m always open to collaborating on exciting projects. If you have an idea or just want to say hi, feel free to reach out. Let’s build something awesome together!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [laibaqazi721@gmail.com](mailto:your-email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
