@@ -4,12 +4,14 @@
     MERN Stack Developer | React Developer | Frontend Developer<br>
     Welcome to my profile! I specialize in creating dynamic and interactive web applications that offer a seamless user experience. I thrive on building scalable and performance-optimized solutions across the full development stack.
   </p>
-  <p>
-    <img src={![Gemini_Generated_Image_2tnvvm2tnvvm2tnv](https://github.com/user-attachments/assets/fb182add-de9c-4e4d-befe-72532df13ec5)}
-"     alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-  </p>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1322417310/vector/programmer-specialist-sitting-on-big-computer-screen-and-working.jpg?s=612x612&w=0&k=20&c=GbM1B9AZzcOHLf-kOHyDv1OKn4x2b43NNeJ6-DnJbXk=" 
+    alt="Cartoon-style developer pic of Laiba Qazi" width="400"/>
+</div>
 ---
 
 ## 🔹 About Me
