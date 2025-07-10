@@ -5,7 +5,8 @@
     Welcome to my profile! I specialize in creating dynamic and interactive web applications that offer a seamless user experience. I thrive on building scalable and performance-optimized solutions across the full development stack.
   </p>
   <p>
-    <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KS5hwdsH92wPBYSCJT6i10I469LzApLBv9M0DIB_IB_RoVBzc-C0oftG6qqfQqI_BsB4zeSXD70t_6Je8v0hJM6NnBB6evjoD_rTXJs6BJfm42MAPFX-7nL-FL1wG4zzMbpCZANSJ9p7ux2xB3kAP_AVNZi_j4c-HOi4IsFM9gBgHpyvg=s1024"
+    <img src="![Gemini_Generated_Image_2tnvvm2tnvvm2tnv](https://github.com/user-attachments/assets/fb182add-de9c-4e4d-befe-72532df13ec5)
+"
       alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
   </p>
 </div>
