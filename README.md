@@ -1,7 +1,8 @@
 <div align="center">
-  
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Developer-E93C3C?style=for-the-badge&logo=javascript&logoColor=white)
+
+![MERN Stack](https://img.shields.io/badge/MERN%20STACK-Gradient?style=for-the-badge&logo=mongodb&logoColor=white&colorA=%2300ff9d&colorB=%23008f5a)
+![Full Stack Dev](https://img.shields.io/badge/FULL%20STACK%20DEV-Gradient?style=for-the-badge&logo=javascript&logoColor=121212&colorA=%23ff006f&colorB=%23000000)
+
 
 # 👋 Hi, I'm **Laiba Qazi**
 
@@ -33,13 +34,9 @@ Building **dynamic, scalable, and performance-optimized** web applications.
 
 ## 🔥 **GitHub Stats**
 <div align="center">
-
-![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&theme=radical&hide_border=true)
-  
+![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qazilaiba08&theme=radical&hide_border=true)
-
 </div>
 
 ---
