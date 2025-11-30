@@ -12,11 +12,7 @@
 ---
 
 <div align="center">
-
-  <img src="https://media.istockphoto.com/id/1322417310/vector/programmer-specialist-sitting-on-big-computer-screen-and-working.jpg?s=612x612&w=0&k=20&c=GbM1B9AZzcOHLf-kOHyDv1OKn4x2b43NNeJ6-DnJbXk=" 
-
-    alt="Cartoon-style developer pic of Laiba Qazi" width="400"/>
-
+  <img src="https://media.istockphoto.com/id/1322417310/vector/programmer-specialist-sitting-on-big-computer-screen-and-working.jpg?s=612x612&w=0&k=20&c=GbM1B9AZzcOHLf-kOHyDv1OKn4x2b43NNeJ6-DnJbXk=" alt="Cartoon-style developer pic of Laiba Qazi" width="400"/>
 </div>
 ---
 
@@ -30,7 +26,8 @@
 ## 🛠️ Core Tech Stack
 
 ### Frontend💻
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> </p>
+<p align="center"> 
+  (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg) <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> </p>
 
 ### Backend & Database⚙️ 
 <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </p>
