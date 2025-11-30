@@ -34,9 +34,13 @@ Building **dynamic, scalable, and performance-optimized** web applications.
 
 ## 🔥 **GitHub Stats**
 <div align="center">
+  
 ![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qazilaiba08&show_icons=true&theme=radical&hide_border=true)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qazilaiba08&layout=compact&theme=radical&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qazilaiba08&theme=radical&hide_border=true)
+
 </div>
 
 ---
